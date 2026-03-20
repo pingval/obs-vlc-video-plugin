@@ -36,5 +36,5 @@ libVLC - библиотека, которую использует плагин 
 ## Обратная связь
 
 - [Github Issues](https://github.com/Chimildic/obs-vlc-video-plugin/issues)
-- [Телеграм](https://t.me/dev_chimildic)
+- [Телеграм](https://t.me/chimildic)
 - [Донат](https://yoomoney.ru/to/410014208620686)
